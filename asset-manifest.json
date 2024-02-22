@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-practice/static/css/main.d7cac405.css",
+    "main.js": "/React-practice/static/js/main.c32b0003.js",
+    "static/media/20221215_kindercom_header_entdeckekinder.png": "/React-practice/static/media/20221215_kindercom_header_entdeckekinder.87326a8a3048b0f65222.png",
+    "static/media/logo.svg": "/React-practice/static/media/logo.ffd70068be55d1ee013e.svg",
+    "static/media/20230303-start-inspiration-fruehling-mc-half.png": "/React-practice/static/media/20230303-start-inspiration-fruehling-mc-half.37cad9ad732a684ce342.png",
+    "static/media/microsoftteams-image-35.png": "/React-practice/static/media/microsoftteams-image-35.a771bcb9d04b7e9da441.png",
+    "static/media/jpeg": "/React-practice/static/media/e4f644b7b012743df7ada8d0ca11978d.21795299d10cdb94b7f1.jpeg",
+    "static/media/1700Wx1700H_19483_main.avif": "/React-practice/static/media/1700Wx1700H_19483_main.908476f8af99ab0c290f.avif",
+    "static/media/kinder-chocolate-header-v4-sm.avif": "/React-practice/static/media/kinder-chocolate-header-v4-sm.4f54cf05eba415313d87.avif",
+    "static/media/bkg-contatta-ferrero.jpg": "/React-practice/static/media/bkg-contatta-ferrero.ab6bb189dd66ccec04a7.jpg",
+    "static/media/20221215_kindercom_header_entdeckekinder.avif": "/React-practice/static/media/20221215_kindercom_header_entdeckekinder.5e0bc8e7c2de86371a35.avif",
+    "static/media/20230303-start-inspiration-fruehling-mc-half.avif": "/React-practice/static/media/20230303-start-inspiration-fruehling-mc-half.51ef42747e5637b327ce.avif",
+    "static/media/microsoftteams-image-35.avif": "/React-practice/static/media/microsoftteams-image-35.6d2cfd59ce53b5153c45.avif",
+    "static/media/Wedding-2022-Creatively-Squared-15.webp": "/React-practice/static/media/Wedding-2022-Creatively-Squared-15.2435ab94d9f441edce4f.webp",
+    "static/media/IMGShow.jpeg": "/React-practice/static/media/IMGShow.feceb59c67f153e262c8.jpeg",
+    "static/media/eb3352b6-cedb-45b9-91c9-19628159022f.avif": "/React-practice/static/media/eb3352b6-cedb-45b9-91c9-19628159022f.aa8bd086479e1702cd11.avif",
+    "static/media/EasterFlavors-392x314-B (1).webp": "/React-practice/static/media/EasterFlavors-392x314-B (1).b4e7107b7d263a77c57f.webp",
+    "static/media/kinder_bueno_hp_slider_v1-min.avif": "/React-practice/static/media/kinder_bueno_hp_slider_v1-min.bfa9af0586770a9b25ab.avif",
+    "static/media/flavor-remix-promo-card-1.webp": "/React-practice/static/media/flavor-remix-promo-card-1.8067a3e3312f168244ba.webp",
+    "static/media/logo.png": "/React-practice/static/media/logo.6c8bff4252f15b69f1fc.png",
+    "static/media/mms-spot-illustration_rings.webp": "/React-practice/static/media/mms-spot-illustration_rings.bcad7da23678fdf638b9.webp",
+    "static/media/mms-spot-illustration_cake.webp": "/React-practice/static/media/mms-spot-illustration_cake.315b9ec520260a221a5f.webp",
+    "static/media/mms-spot-illustration_easter-bunny.webp": "/React-practice/static/media/mms-spot-illustration_easter-bunny.42045dbfdcf714aac645.webp",
+    "static/media/text_and_image_paragraph2_0.avif": "/React-practice/static/media/text_and_image_paragraph2_0.b5c77556e9121b8c0d6b.avif",
+    "index.html": "/React-practice/index.html",
+    "main.d7cac405.css.map": "/React-practice/static/css/main.d7cac405.css.map",
+    "main.c32b0003.js.map": "/React-practice/static/js/main.c32b0003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cac405.css",
+    "static/js/main.c32b0003.js"
+  ]
+}
